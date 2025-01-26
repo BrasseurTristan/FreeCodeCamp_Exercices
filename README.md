@@ -20,11 +20,14 @@ Each folder contains the exercises and projects related to a specific certificat
  ```bash
     FreeCodeCamp_Exercices/ 
     ├── README.md
-    └── Responsive_Web_Design_Certification/
-           ├── exercice1.html
-           ├── ...
-           └── assets/
-                 └── css/
-                      ├── exercice1.css 
-                      └── ...
+    ├── Responsive_Web_Design_Certification/
+    │      ├── exercice1.html
+    │      ├── ...
+    │      └── assets/
+    │            └── css/
+    │                 ├── exercice1.css 
+    │                 └── ...
+    └── Javascript_Algorithms_and_Data_Structures/
+               └── exercice1.js
+
 ```
